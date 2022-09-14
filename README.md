@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 35%" /> </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF1515&center=true&vCenter=true&width=1000&height=100&lines=My+name+is+Kristijan+Sto%S%i%C4%87...;Nice+to+meet+you!+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF1515&center=true&vCenter=true&width=1000&height=100&lines=My+name+is+Kristijan+Stosi%C4%87...;Nice+to+meet+you!+%F0%9F%98%81)](https://git.io/typing-svg)
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> More about me:
 
 - <img alt="GIF" src="https://github.com/Denver-Devs/emojis/blob/main/the_goods/woman-with-computer:.png" width="20vw" /> I'm currently studying at Faculty of Technical Sciences majoring in Information Systems Engineering
