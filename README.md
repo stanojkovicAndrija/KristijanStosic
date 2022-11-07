@@ -66,8 +66,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=KristijanStosic&icon=5&color=6)](https://visitcount.itsvg.in)
+### <img alt="GIF" src="https://github.com/Denver-Devs/emojis/blob/main/the_goods/will-smith-presents:.png" width="40vw" /> Visitors count: ![Visitor Count](https://profile-counter.glitch.me/KristijanStosic/count.svg)
 
 <br>
 
