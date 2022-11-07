@@ -6,15 +6,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/stosic_____)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nimeria83)
 
-I am versatile and easily adapt to various technologies depending on what the project requires. I love to explore new technology stack 💻 and leveraging them to build cool stuffs 🛠️.
-<br/>
+## I am versatile and easily adapt to various technologies depending on what the project requires. I love to explore new technology stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More about me:
 
-- 👨‍🏛 I am currently a student at **Faculty of Technical Sciences, University of Novi Sad, Serbia**.
+- 👨‍🏛 I am currently a student at **Faculty of Technical Sciences, Novi Sad, Serbia**.
 - 💻 Major is **Information Systems Engineering**.
 - 📚 I'm currently learning **React, Redux, Typescript, HTML, CSS, Javascript, C#, Spring, NodeJS, SQL, MongoDB and many more...**.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/KristijanStosic?tab=repositories)
@@ -56,6 +55,8 @@ I am versatile and easily adapt to various technologies depending on what the pr
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KristijanStosic&exclude_repo=PPPO-2022-Segmentacija,Cinema-Project&theme=cobalt)
 
 <br>
+
+## 💸 You can support me by Donating
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stosickristijan)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stosickristijan)
