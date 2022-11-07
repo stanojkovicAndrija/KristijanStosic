@@ -22,7 +22,6 @@
 - 📫 Reach me at: **stosic.kristijan@proton.me**.
 
 <br>
-
 ### 🔨 Languages:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -49,9 +48,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
-
 ### 📊 Github Stats
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KristijanStosic&exclude_repo=PPPO-2022-Segmentacija,Cinema-Project&theme=cobalt)
 
 <br>
@@ -60,5 +57,3 @@
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stosickristijan)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stosickristijan)
-
-<br>
