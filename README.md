@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/stosic_____)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nimeria83)
 
-## I am versatile and easily adapt to various technologies depending on what the project requires. I love to explore new technology stack 💻 and leveraging them to build cool stuffs 🛠️.
+# I am versatile and easily adapt to various technologies depending on what the project requires. I love to explore new technology stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
