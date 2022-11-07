@@ -1,5 +1,6 @@
 ## Hi, I'm Kristijan Stosic, a Developer 🚀 from Novi Sad, Serbia.
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimeria83@gmail.com)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:stosic.kristijan@proton.me)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/KristijanStosic)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristijan-sto%C5%A1i%C4%87-731a881ba/)
