@@ -63,6 +63,12 @@
 ### 📊 Github Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KristijanStosic&exclude_repo=PPPO-2022-Segmentacija,Cinema-Project&theme=cobalt)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KristijanStosic&icon=5&color=6)](https://visitcount.itsvg.in)
+
 <br>
 
 ## 💸 You can support me by Donating
