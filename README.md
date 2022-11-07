@@ -63,7 +63,7 @@
 ### 📊 Github Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KristijanStosic&exclude_repo=PPPO-2022-Segmentacija,Cinema-Project&theme=cobalt)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### <img alt="GIF" src="https://github.com/Denver-Devs/emojis/blob/main/the_goods/will-smith-presents:.png" width="40vw" /> Visitors count: ![Visitor Count](https://profile-counter.glitch.me/KristijanStosic/count.svg)
