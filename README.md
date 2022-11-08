@@ -11,7 +11,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/KristijanStosic/KristijanStosic/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/KristijanStosic/KristijanStosic/master/techstack.gif" width="360px"/>
   
 ### 🧐 More about me:
 
