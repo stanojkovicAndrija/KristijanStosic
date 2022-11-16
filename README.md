@@ -22,7 +22,7 @@
 - 📚 I'm currently learning **React, Redux, Typescript, HTML, CSS, Javascript, C#, Spring, NodeJS, SQL, MongoDB and many more...**.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/KristijanStosic?tab=repositories)
 - 🤔 My hobbies are **basketball, board games and books**.
-- 💬 Ask me about anything tech related, **I am happy to help**.
+- 💬 Ask me about anything ssssssss related, **I am happy to help**.
 - 📫 Reach me at: **stosic.kristijan@proton.me**.
 
 <br>
